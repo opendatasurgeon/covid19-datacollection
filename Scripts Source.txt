@@ -1,5 +1,0 @@
-Edited by/ Maintainer:
-Dre Dyson
-
-Source:
-https://github.com/computermacgyver/twitter-python
