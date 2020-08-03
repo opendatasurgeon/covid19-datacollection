@@ -30,4 +30,4 @@ Data Collected:  Our (USF) approach was hashtags based, we were getting tweets f
         May: 05/1-05/22 (Acquistion: 05/23-05/26) 
 
 NOTE:
-	Twitter data always uses GMT (from what I can tell), so we can save other people time later.
+	Twitter data always uses GMT.
