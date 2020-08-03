@@ -1,6 +1,6 @@
 # covid19-datacollection
 
-This repository contains our current methodology for collecting data from the Twitter.
+This repository contains our methodology for collecting data from the Twitter. 
 
 # Scripts Description
 
