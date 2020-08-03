@@ -1,22 +1,18 @@
 # covid19-datacollection
 
 *./covid19-datacollection/*     
-    This repository contains our methodology for collecting data from the Twitter.  
-       
-*./Refrences/*     
-1) **Source.txt**- Script source   
-2) **Queries.txt**- Contains all the keywords we've been using to collect raw data
-
-# Scripts Description
-
+*This repository contains our methodology for collecting data from the Twitter.*    
 1) **streaming_simple.py**- It will keep streaming until the user exits. All output stored to output.json (one tweet per line)
 2) **streaming.py** - a class file for streaming_simple.py
 3) **auth.py**- a class where we put our authorization keys (note: please put your keys, you can request them here: [Access Tokens](https://developer.twitter.com/en/docs/basics/authentication/oauth-1-0a/obtaining-user-access-tokens]))
 4) **data2spreadsheet.py**- converts *output.json* to a utf-8 spreadsheet
-5) **search_generic.py** - searches for terms in tweets (not part of 1-4, it's independent)
+5) **search_generic.py** - searches for terms in tweets (not part of 1-4, it's independent)   
    
-# Method   
+*./Refrences/*     
+1) **Source.txt**- Script source   
+2) **Queries.txt**- Contains all the keywords we've been using to collect raw data
 
+# Data Collection Method        
 
 To collect relevant Twitter dataset for our analysis, we used two step approach. First, using the Tweet ID’s made public by University of Southern California (https://github.com/echen102/COVID-19-TweetIDs). USC crawled Twitter data set using their own queries (the queries are available in their GitHub page: https://github.com/echen102/COVID-19-TweetIDs/blob/master/keywords.txt).
 
