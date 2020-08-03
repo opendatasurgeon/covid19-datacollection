@@ -72,14 +72,14 @@ GetMePPE                    3/21/2020
 covidiot                    3/26/2020
 epitwitter                  3/28/2020
 pandemie                    3/31/2020
-virus (USF)                 7/9/2020
 kung flu                    6/28/2020
 covididiot                  6/28/2020
-wearamask (USF)             7/9/2020
 wear a mask                 6/28/2020
 vaccine                     6/28/2020
-mybodymychoice (USF)        7/9/2020
-righttochoose               7/9/2020
-vaççine                     7/9/2020
-provax                      7/9/2020
-vaxwithme                   7/9/2020
+virus (USF)                 7/5/2020
+mybodymychoice (USF)        7/5/2020
+wearamask (USF)             7/5/2020
+righttochoose (USF)         7/9/2020
+vaççine (USF)               7/9/2020
+provax (USF)                7/9/2020
+vaxwithme (USF)             7/9/2020
