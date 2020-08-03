@@ -1,5 +1,6 @@
 # covid19-datacollection
-This repository contains our methodology for collecting data from the Twitter.     
+This repository contains our methodology for collecting data from the Twitter.    
+
 *./covid19-datacollection/*        
 1) **streaming_simple.py**- It will keep streaming until the user exits. All output stored to output.json (one tweet per line)
 2) **streaming.py** - a class file for streaming_simple.py
