@@ -1,6 +1,2 @@
-Now Maintained by:
-Dre Dyson
-
 Source:
 Dr Scott Hale (https://github.com/computermacgyver/twitter-python)
--> most of the data-collection scripts were upgraded
